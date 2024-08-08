@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama appversion="6.1.11" apprev="18043" id="node1">
+  <input height="1894" levelingroll="0" width="1894" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000">
+    <level height="1894" width="1894" preload="0" predecode="0"/>
+    <level height="947" width="947" preload="0" predecode="0"/>
+    <level height="473" width="473" preload="1" predecode="1"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start tilt="0" fov="70" pan="0" projection="4"/>
+    <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+    <min tilt="-90" pan="0" fovpixel="2"/>
+    <max fovstereographic="270" scaletofit="1" tilt="90" fov="120" fovfisheye="360" pan="360"/>
+  </view>
+  <userdata title="" author="" heading="0" info="" longitude="" description="" copyright="" tags="ИМПОРТ" datetime="" customnodeid="" source="" latitude="" nodeid="node1" comment=""/>
+  <hotspots height="20" wordwrap="1" width="180">
+    <label enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" height="20" wordwrap="1" borderradius="1" width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" border="1" background="1" textalpha="1"/>
+    <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1"/>
+  </hotspots>
+  <media/>
+  <transition enabled="1" zoomafterinfov="90" zoomfov="20" zoomout="0" blendtime="1" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomafteroutfov="20" type="crossdissolve" zoomspeed="2" zoomin="0"/>
+  <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+  <control contextfullscreen="1" hideabout="0" simulatemass="1" invertcontrol="1" speedwheel="1" lockedkeyboard="0" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" lockedmouse="0" sensitivity="8" lockedwheel="0" dblclickfullscreen="0"/>
+</panorama>
